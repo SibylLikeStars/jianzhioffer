@@ -1,6 +1,6 @@
 package jianzhioffer;
 
-import a_important.tool.TreeNode;
+import jianzhioffer.utils.TreeNode;
 
 /**
  * @ClassName : Solution55_2
